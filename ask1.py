@@ -33,7 +33,6 @@ for i in range(100):
     for sublist in d:
         random.shuffle(sublist)
     
-    print d
 
     #grammes
     
